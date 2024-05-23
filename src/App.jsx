@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae, nihil!</p>
+      <p className="read-the-docs">ESTE ES EL CAMBIO DE INÉS MARÍA</p>
     </div>
   );
 }
