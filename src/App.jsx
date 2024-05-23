@@ -1,17 +1,16 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import { useState } from 'react';
+import reactLogo from './assets/react.svg';
+import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <div className="App">
-      <p className="read-the-docs">
-        ESTE ES EL CAMBIO DE INÉS MARÍA
-      </p>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae, nihil!</p>
+      <p className="read-the-docs">ESTE ES EL CAMBIO DE INÉS MARÍA</p>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
